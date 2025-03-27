@@ -1,6 +1,3 @@
-Certainly! Below is an updated README file that includes references to the images showing the predicted vs. actual closing prices, both with and without sentiment analysis.
-
----
 
 # Stock Price Prediction with LSTM and Sentiment Analysis
 
