@@ -36,7 +36,7 @@ pip install numpy pandas tqdm matplotlib tensorflow torch yfinance holidays scik
 ## Data
 
 - **Stock Data**: Historical stock price data is fetched using the `yfinance` library.
-- **News Data**: The project assumes the presence of a CSV file (`analyst_ratings_processed.csv`) containing news articles related to stocks. Ensure this file is correctly formatted and available in the project directory.
+- **News Data**: The project assumes the presence of a CSV file (`dataset.csv`) containing news articles related to stocks. Ensure this file is correctly formatted and available in the project directory.
 
 ## Usage
 
