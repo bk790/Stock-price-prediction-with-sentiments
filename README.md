@@ -41,7 +41,7 @@ pip install numpy pandas tqdm matplotlib tensorflow torch yfinance holidays scik
 ## Usage
 
 1. **Data Preparation**:
-   - Load and preprocess the news data from `analyst_ratings_processed.csv`.
+   - Load and preprocess the news data from `dataset.csv`.
    - Fetch historical stock price data for the desired ticker symbol (e.g., `BABA` for Alibaba).
 
 2. **Sentiment Analysis**:
